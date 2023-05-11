@@ -5,7 +5,7 @@ I am Michael Devloo, a developer from 🇧🇪 Belgium.
 ## About Me
 
 * Pragmatic developer with focus on backend and architectural design.
-* :heart: Passion for security, electronics and IoT solutions.
+* Passion for security, electronics and IoT solutions.
 * :house: Tinkering with home automation, hardware and homelab solutions.
 
 ## Open Source Projects
